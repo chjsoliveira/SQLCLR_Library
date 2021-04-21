@@ -1,0 +1,9 @@
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\bin\Debug\StringUtils.dacpac
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\bin\Debug\StringUtils.dll
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\bin\Debug\StringUtils.pdb
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\Model.xml
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\refactor.xml
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\postdeploy.sql
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\predeploy.sql
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\StringUtils.dll
+C:\Users\chjso\source\repos\SQLCLR_Library\StringUtils\obj\Debug\StringUtils.pdb
